@@ -1,4 +1,4 @@
-# Bazel toolchain analysis
+# CMake toolchain analysis
 
 [CMake](https://cmake.org) is an open-source, cross-platform family of tools
 designed to build, test and package software. CMake is used to control the
