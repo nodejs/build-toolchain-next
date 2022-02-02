@@ -48,5 +48,6 @@ TODO: see above
 
 * There seems to be positive reception at the idea of cmake for native modules,
   having the same build system for building Node.js and its native modules
+* It is already possible to build node-addon-api based native modules with cmake.
 * There is the possibility of using cmake to build everything except V8, using
   GN to build V8 and then linking it statically to Node.js
